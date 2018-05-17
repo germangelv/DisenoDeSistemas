@@ -1,0 +1,32 @@
+﻿IdParques;IdParques;NombreAtraccion;HorarioApertura;HorarioCierre;Fastpass;Descripcion
+1;1;Astro Orbiter;8;12;0;Paseos lentos, giros, clasicos
+1;2;The Barnstormer;8;12;1;Caidas cortas, novedades
+1;3;Big Thunder;8;16;0;Caidas cortas, paseos emocionantes, clasicos, novedades
+1;4;Buzz Lightyear;8;19;1;Paseos lentos, giros, clasicos
+1;5;Casey Jr Spplash;8;14;1;Paseo acuatico, interactivo, areas de juegos
+1;6;Cinderella Castle;10;12;0;Experiencias en espacio interior
+1;7;Country Bear;10;16;0;Clasicos, actividad interior, espectaculos
+1;8;Dumbo the Flying Elephant;8;12;1;Paseos lentos, giros clasicos, interactivo
+2;9;Advanced Trianing Lab;9;19;0;Actividad interior, interactivo
+2;10;The American Adventure;9;20;0;Clasicos, actividad interior, espectaculos
+2;11;American Heritage;8;20;0;Interior
+2;12;Bijutsu-kan Gallery;8;16;1;Interior
+2;13;Bruces Shark World;8;14;1;Interior
+3;14;Avance de Coco de Disney;9;20;0;Actividad interior, interactivo
+3;15;Muppet 3D;8;18;1;Espacio interior
+3;16;Rock Rooler;8;20;1;Grandes caidas, paseos emocionantes
+3;17;Star Tours;8;20;0;Caidas cortas, Star Wars
+4;18;Affection Section;8;16;0;Encuentros con animales, interactivo
+4;19;Aves africanas;8;16;0;Encuentros con animales, interactivo
+4;20;Elefantes marinos;8;16;0;Encuentros con animales
+4;21;Avatar Flight of Passage;9;20;1;Interior
+4;22;The Boneyard;9;20;1;Areas de juego
+5;23;Bay Slides;10;16;1;Pase en el agua
+5;24;Castaway Creek;10;16;0;Pase en el agua
+5;25;Crush Gusher;10;16;0;Caidas cortas, paseos emocionantes, clasicos, novedades
+5;26;Gangplank Falls;10;16;0;Caidas cortas, paseos emocionantes, clasicos, novedades
+6;27;Chairlift;9;18;0;Parque acuatico
+6;28;Cross Country Creek;9;14;0;Paseo acuatico, interactivo, areas de juegos
+6;29;Downhill Double Dipper;9;16;0;Paseo emocionante, acuatico
+6;30;Melt-Away Bay;9;16;1;Paseos en el agua
+6;31;Ryboff Rapids;9;20;0;Caidas cortas, paseos emocionantes, clasicos, novedades
